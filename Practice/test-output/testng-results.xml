@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2385" started-at="2018-09-29T14:25:32Z" finished-at="2018-09-29T14:25:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2385" started-at="2018-09-29T14:25:32Z" finished-at="2018-09-29T14:25:34Z">
+      <class name="example">
+        <test-method status="PASS" signature="print(java.util.Hashtable)[pri:0, instance:example@1ceabc1]" name="print" duration-ms="37" started-at="2018-09-29T19:55:34Z" data-provider="getData" finished-at="2018-09-29T19:55:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Maroof, Password=Ahmed}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Hashtable)[pri:0, instance:example@1ceabc1]" name="print" duration-ms="2" started-at="2018-09-29T19:55:34Z" data-provider="getData" finished-at="2018-09-29T19:55:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Khan, Password=Hasnain}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Hashtable)[pri:0, instance:example@1ceabc1]" name="print" duration-ms="2" started-at="2018-09-29T19:55:34Z" data-provider="getData" finished-at="2018-09-29T19:55:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Musayb, Password=Khan}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="print(java.util.Hashtable)[pri:0, instance:example@1ceabc1]" name="print" duration-ms="3" started-at="2018-09-29T19:55:34Z" data-provider="getData" finished-at="2018-09-29T19:55:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Sanjida, Password=Mother}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
